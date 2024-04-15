@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leerFichero", "leerFichero\leerFichero.csproj", "{FF61739C-72C4-44B4-A173-B72712DD413C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF61739C-72C4-44B4-A173-B72712DD413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF61739C-72C4-44B4-A173-B72712DD413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF61739C-72C4-44B4-A173-B72712DD413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF61739C-72C4-44B4-A173-B72712DD413C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A7781B-51A9-4FD9-831D-34926B1005C8}
+	EndGlobalSection
+EndGlobal
